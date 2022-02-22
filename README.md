@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I'm Pietro 👋
+
+LANGUAGES:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white),
 
 <!--
 **pietroscandola/pietroscandola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
